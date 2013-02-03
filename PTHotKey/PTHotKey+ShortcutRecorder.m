@@ -7,7 +7,7 @@
 //
 
 #import "PTHotKey+ShortcutRecorder.h"
-#import "SRRecorderControl.h"
+#import <ShortcutRecorder/ShortcutRecorder.h>
 
 
 @implementation PTHotKey (ShortcutRecorder)
